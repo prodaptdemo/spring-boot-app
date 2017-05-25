@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+prodapt-app,com.prodapt.app.dao.impl,AppDaoImpl,0,84,0,8,0,18,0,6,0,2
+prodapt-app,com.prodapt.app.service,AppService,0,137,0,8,0,33,0,7,0,3
+prodapt-app,com.prodapt.app.controller,AppControllerTest,0,96,0,0,0,27,0,7,0,7
+prodapt-app,com.prodapt.app.controller,AppControllerTest.new AppDao() {...},0,10,0,0,0,2,0,2,0,2
+prodapt-app,com.prodapt.app.controller,AppController,0,12,0,0,0,4,0,3,0,3

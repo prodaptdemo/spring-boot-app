@@ -1,0 +1,8 @@
+APPID,APPNAME,STATUS,NOOFTIMEINSTALLED,DATACONSUMPTION,HOWFREQUENTLYUSING,MEMORYUTILIZED
+1,Paytm,Active,5,Low,5 Times per day,Low
+2,Cricbuzz,Active,1,Low,50 Times per week,Low
+3,Facebook,Active,1,High,105 Times per day,High
+4,Redbus,Active,3,Low,5 Times per day,Low
+5,Skype,Active,2,Low,3 Times in a week,Low
+6,Flipkart,Active,1,High,15 Times per day,High
+7,Whatsapp,Active,1,High,200 Times per day,High
